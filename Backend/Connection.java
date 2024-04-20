@@ -1,1 +1,6 @@
-/*This is to established the connection with the DATABASE. */
+/*This is to established the connection with the DATABASE.*/
+
+public class Connection
+{
+
+}
